@@ -8,3 +8,7 @@ puts 12.5.to_i
 
 #.to_f convert integer to float
 puts 3.to_f
+
+#.odd and .even give boolean values 
+6.even?
+7.odd? 
